@@ -1,0 +1,29 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 36px;
+    margin-top: 50px;
+  }
+  
+  .time {
+    display: flex;
+    align-items: center;
+  }
+  
+  .time span {
+    margin: 0 10px;
+  }
+  
+  .labels {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .label {
+    margin: 0 10px;
+    font-size: 18px;
+    color: #666;
+  }
+  

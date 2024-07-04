@@ -1,0 +1,26 @@
+.nested-comment {
+    margin-left: 20px; /* Indent nested comments */
+  }
+  
+  .comment {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .comment-content {
+    margin-bottom: 5px;
+  }
+  
+  .toggle-replies {
+    background-color: transparent;
+    border: none;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .replies {
+    margin-top: 10px;
+  }
+  
